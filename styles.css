@@ -338,11 +338,14 @@ body {
 .gallery {
     padding: 5rem 0 0 0;
     background: #f8f8f8;
+    min-height: 100vh;
+    position: relative;
 }
 
 .gallery-header {
     text-align: center;
     padding-bottom: 3rem;
+    padding-top: 2rem;
 }
 
 /* Instagram Grid - Full Width */
